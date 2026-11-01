@@ -1,0 +1,3 @@
+[submodule "menuclocks"]
+	path = menuclocks
+	url = https://github.com/vincy-cheng/menuclocks.git
