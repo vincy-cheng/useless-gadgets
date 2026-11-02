@@ -6,9 +6,9 @@ A collection of small, independent projects, included here as Git submodules.
 
 | Project | Description |
 | --- | --- |
-| [MenuClocks](menuclocks/) | A native macOS menu bar world clock built with SwiftUI and AppKit. Requires macOS 13 or newer. |
+| [MenuClocks](https://github.com/vincy-cheng/menuclocks) | A native macOS menu bar world clock built with SwiftUI and AppKit. Requires macOS 13 or newer. |
 
-See the [MenuClocks README](menuclocks/README.md) for usage, build instructions, and requirements.
+See the [MenuClocks README](https://github.com/vincy-cheng/menuclocks/blob/HEAD/README.md) for usage, build instructions, and requirements.
 
 ## Clone
 
