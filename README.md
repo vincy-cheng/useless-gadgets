@@ -34,3 +34,7 @@ git commit -m "chore: update menuclocks"
 ```
 
 Make code changes and commits in the individual project repository, then update the submodule reference here.
+
+## License
+
+[MIT](LICENSE) covers this collection’s own files. Each submodule has its own license; see [MenuClocks’ license](https://github.com/vincy-cheng/menuclocks/blob/HEAD/LICENSE).
